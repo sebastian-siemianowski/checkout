@@ -1,0 +1,22 @@
+{
+  "store_products": [
+    {
+      "id" : 1,
+      "product_code" : "001",
+      "name" : "Lavender heart",
+      "price" : 9.25
+    },
+    {
+      "id" : 2,
+      "product_code" : "002",
+      "name" : "Personalised cufflinks",
+      "price" : 45.00
+    },
+    {
+      "id" : 3,
+      "product_code" : "003",
+      "name" : "Kids T-shirt ",
+      "price" : 19.95
+    }
+  ]
+}
